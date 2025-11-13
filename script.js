@@ -87,4 +87,4 @@ for (gameBtn of gameBtns) {
         }
     });
 } 
-// user click pattern 
+// user click pattern "+JS Feature"
